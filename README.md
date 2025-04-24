@@ -15,12 +15,9 @@ DroneFarmer is a simulated agricultural drone system for No-Till Farming. It sim
 
 
 
-For detailed instructions on how to set up **PX4** and run the **jMAVSim** simulation, refer to the
- [setup guide](https://gist.github.com/asnb0/31527f37c84ecd09002f63a51ce4464f).
- 
- ## References
- **[PX4 Documentation](https://docs.px4.io/main/en/)**  
-  Official PX4 documentation for detailed installation and configuration guides. 
+## Setup
+To run the drone simulation, PX4 Autopilot and jMAVSim must be installed in a Linux-based environment.  
+Please follow standard PX4 installation procedures available at [PX4 Documentation](https://docs.px4.io/main/en/).   
 
 
  
